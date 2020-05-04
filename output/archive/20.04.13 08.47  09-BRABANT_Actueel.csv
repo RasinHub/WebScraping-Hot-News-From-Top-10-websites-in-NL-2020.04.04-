@@ -1,0 +1,84 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>titles</th>
+      <th>descriptions</th>
+      <th>links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Artieste kan weer lopen na horrorval Carré</td>
+      <td>De Russische circusartieste Kristina Vorobeva, die in januari met haar partner gewond raakte na een val van tien meter tijdens het Wereldkerstcircus in Carré, kan weer lopen.</td>
+      <td>https://www.telegraaf.nl/nieuws/983457616/artieste-kan-weer-lopen-na-horrorval-carre</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Man door politie neergeschoten na melding in Zevenaar</td>
+      <td>Man door politie neergeschoten na melding in Zevenaar</td>
+      <td>https://www.telegraaf.nl/nieuws/1450835260/man-door-politie-neergeschoten-na-melding-in-zevenaar</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>’Dode baby aangetroffen bij woning Haaksbergen’</td>
+      <td>’Dode baby aangetroffen bij woning Haaksbergen’</td>
+      <td>https://www.telegraaf.nl/nieuws/1261459685/dode-baby-aangetroffen-bij-woning-haaksbergen</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Wéér brand in zendmast, politie Tilburg doet onderzoek</td>
+      <td>De politie in Tilburg heeft zondag onderzoek gedaan naar een brand in een zendmast aan de Centaurusweg. Een voorbijganger meldde zaterdagavond dat er sporen zichtbaar waren van een brandje in een kast van de zendmast.</td>
+      <td>https://www.telegraaf.nl/nieuws/572853917/weer-brand-in-zendmast-politie-tilburg-doet-onderzoek</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Viroloog: ’Geld voor onderzoek naar corona-medicijn moeilijk te krijgen’</td>
+      <td>Coronavirologen hebben de grootste moeite om geld te krijgen van de Europese Unie voor onderzoek naar een medicijn tegen het coronavirus, aldus viroloog Lia van der Hoek, leider van de Europese onderzoeksgroep naar coronavirussen.</td>
+      <td>https://www.telegraaf.nl/nieuws/828441979/viroloog-geld-voor-onderzoek-naar-corona-medicijn-moeilijk-te-krijgen</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Coronapatiënt Timo (22) uit Duiven tegen leeftijdsgenoten: ’Stop met feesten’</td>
+      <td>Terwijl de 22-jarige Timo Hendriks uit Duiven in het Slingeland Ziekenhuis in Doetinchem ligt te vechten voor zijn leven, hebben leeftijdsgenoten lak aan de opgelegde coronaregels. En dat zit Hendriks dwars. In een post op Facebook schrijft hij de emoties van zich af.</td>
+      <td>https://www.telegraaf.nl/nieuws/1399613990/coronapatient-timo-22-uit-duiven-tegen-leeftijdsgenoten-stop-met-feesten</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Kamer: breng vluchtelingen Lesbos onder op cruiseschepen</td>
+      <td>Kamer: breng vluchtelingen Lesbos onder op cruiseschepen</td>
+      <td>https://www.telegraaf.nl/nieuws/906942758/kamer-breng-vluchtelingen-lesbos-onder-op-cruiseschepen</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>’Raam ingeslagen bij groot protest PI Lelystad’</td>
+      <td>Bewaarders hebben zondag pepperspray moeten gebruiken om de rust in gevangenis Lelystad te laten wederkeren. Meerdere gedetineerden kwamen in opstand vanwege de toenemende onrust door de coronacrisis.</td>
+      <td>https://www.telegraaf.nl/nieuws/472804076/raam-ingeslagen-bij-groot-protest-pi-lelystad</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Naar school na corona-break: ‘Koortscontrole en gescheiden pauzes’</td>
+      <td>In de nieuwste corona-update hoort u over alle incidenten op paaszondag. Hoewel het lange tijd goed leek te gaan dit weekend, had een kleine groep in het land vandaag toch maling aan de veiligheidsvoorschriften.</td>
+      <td>https://www.telegraaf.nl/nieuws/133883010/naar-school-na-corona-break-koortscontrole-en-gescheiden-pauzes</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Rustig in de Nederlandse bossen, druk bij sommige waterplassen</td>
+      <td>Het was zondag opvallend rustig in de Nederlandse bossen. Die conclusie trekt een woordvoerder van Staatsbosbeheer op basis van een belrondje onder de boswachters. Bij sommige waterplassen was het wel druk.</td>
+      <td>https://www.telegraaf.nl/nieuws/75544091/rustig-in-de-nederlandse-bossen-druk-bij-sommige-waterplassen</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Grenscontroles: 'Winkelen? Vandaag niet'</td>
+      <td>Ook dit weekend zijn er weer grenscontroles bij Roermond en Venlo om het verkeer vanuit Duitsland tegen te gaan.</td>
+      <td>https://www.telegraaf.nl/video/958178723/grenscontroles-winkelen-vandaag-niet</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Duitser druipt mokkend af bij drukke bollenvelden</td>
+      <td>De oproep was luid en duidelijk, en ook de waarschuwingsborden waren zonneklaar: kom niet naar de bollenvelden. Hoewel zondagochtend nog hoopvol stemde, sloegen in de middag toch veel mensen het dringende advies in de wind.</td>
+      <td>https://www.telegraaf.nl/nieuws/1501947849/duitser-druipt-mokkend-af-bij-drukke-bollenvelden</td>
+    </tr>
+  </tbody>
+</table>

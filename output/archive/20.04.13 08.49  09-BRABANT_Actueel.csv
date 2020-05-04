@@ -1,0 +1,72 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>titles</th>
+      <th>descriptions</th>
+      <th>links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Brabant zet kanjers in het licht</td>
+      <td>Het provinciebestuur toont haar steun aan alle helden die in deze bijzondere tijd een bewonderingswaardige rol spelen.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/bestuur/2020/brabant-zet-kanjers-in-het-licht</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Hoe denken Brabanders over het coronavirus</td>
+      <td>Een breed uitgevoerd onderzoek in Brabant geeft inzicht in hoe Brabanders de aanwezigheid van het coronavirus ervaren.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/bestuur/2020/hoe-denken-brabanders-over-het-coronavirus</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Open oproep Buurtcultuurprojecten tijdens lockdown</td>
+      <td>Woningcorporaties, verenigingen, wijkwerkers, welzijns- en zorginstellingen kunnen cultuurprojecten indienen.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/kunst-cultuur-en-erfgoed/2020/open-oproep-buurtcultuurprojecten-tijdens-lockdown</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Provinciale Staten vergaderen over profielschets nieuwe commissaris van de Koning</td>
+      <td>De profielschets voor de functie van de commissaris van de Koning is gereed</td>
+      <td>https://www.brabant.nl/actueel/nieuws/provinciale-staten/2020/april/profielschets-commissaris-gereed</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Provinciale Staten start weer met vergaderen</td>
+      <td>Vanaf 17 april 2020 start Provinciale Staten weer met vergaderen</td>
+      <td>https://www.brabant.nl/actueel/nieuws/provinciale-staten/2020/april/provinciale-staten-start-met-vergaderen</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Kruithuis wordt Vesting- en Watermuseum</td>
+      <td>Het Kruithuis blijft als rijksmonument bewaard voor de stad ‘s-Hertogenbosch.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/kunst-cultuur-en-erfgoed/2020/kruithuis-wordt-vesting-en-watermuseum</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Visie provincie om Brabant klimaatproof te maken</td>
+      <td>Om Brabant klimaatproof te maken komt de pronvincie met een nieuwe Visie Klimaatadaptatie.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/milieu/2020/visie-provincie-om-brabant-klimaatproof-te-maken</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Nationaal Park Van Gogh icoon voor Brabant</td>
+      <td>Brabantse aanpak leidt tot Van Gogh Nationaal Park.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/natuur-en-landschap/2020/nationaal-park-van-gogh-icoon-voor-brabant</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Fietsers geven mening over toekomstige snelfietsroutes</td>
+      <td>Om straks het effect van snelfietsroutes te kunnen meten wordt fietsers gevraagd naar hun mening.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/verkeer-en-vervoer/2020/fietsers-geven-mening-over-toekomstige-snelfietsroutes</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Files en sluipverkeer N284 in 2026 verleden tijd</td>
+      <td>Aan de provinciale weg N284 die dwars door de Kempen loopt, vindt vanaf 2023/2024 groot onderhoud plaats.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/verkeer-en-vervoer/2020/voorkeursalternatief-n284-files-en-sluipverkeer-in-2026-verleden-tijd</td>
+    </tr>
+  </tbody>
+</table>

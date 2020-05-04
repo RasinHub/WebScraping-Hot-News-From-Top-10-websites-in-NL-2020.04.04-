@@ -1,0 +1,72 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>titles</th>
+      <th>descriptions</th>
+      <th>links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Brabant zet kanjers in het licht</td>
+      <td>Het provinciebestuur toont haar steun aan alle helden die in deze bijzondere tijd een bewonderingswaardige rol spelen.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/bestuur/2020/brabant-zet-kanjers-in-het-licht</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Lancering online leeromgeving ‘Brabant Leert’</td>
+      <td>Via dit online platform kunnen Brabanders zich tijdens de crisis blijven ontwikkelen.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/economie-en-werk/2020/lancering-online-leeromgeving-brabant-leert</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Vuelta niet in augustus</td>
+      <td>La Vuelta vindt niet in augustus van dit jaar plaats.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/bestuur/2020/vuelta-niet-in-augustus</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Lancering online leeromgeving 'Brabant Leert'</td>
+      <td>Via het platform 'Brabant Leert' zijn verschillende online cursussen beschikbaar.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/economie-en-werk/2020/lancering-online-leeromgeving-brabant-leert</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Wederom veel Brabantse verkeersdoden: "Dit is flink schrikken"</td>
+      <td>Het aantal verkeersdoden in Noord-Brabant is volgens het CBS dit jaar licht gedaald van 150 naar 142.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/verkeer-en-vervoer/2020/wederom-veel-brabantse-verkeersdoden</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Cultuurfonds Noord-Brabant ondersteunt 61 projecten</td>
+      <td>61 projecten voor cultuur en natuur ontvangen een bedrag van in totaal € 270.000.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/kunst-cultuur-en-erfgoed/2020/cultuurfonds-noord-brabant-ondersteunt-projecten</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Stiller asfalt en rotonde voor N279 Asten - Meijel</td>
+      <td>De kruising van de N279 met de Buizerdweg/Meijelseweg wordt een rotonde.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/verkeer-en-vervoer/2020/stiller-asfalt-en-rotonde-voor-n279-asten---meijel</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Hoe denken Brabanders over het coronavirus</td>
+      <td>Een breed uitgevoerd onderzoek in Brabant geeft inzicht in hoe Brabanders de aanwezigheid van het coronavirus ervaren.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/bestuur/2020/hoe-denken-brabanders-over-het-coronavirus</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Open oproep Buurtcultuurprojecten tijdens lockdown</td>
+      <td>Woningcorporaties, verenigingen, wijkwerkers, welzijns- en zorginstellingen kunnen cultuurprojecten indienen.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/kunst-cultuur-en-erfgoed/2020/open-oproep-buurtcultuurprojecten-tijdens-lockdown</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Activatieprogramma La Vuelta Holanda aangepast</td>
+      <td>In 2020 komt La Vuelta, een van de drie grootste wielerrondes van de wereld, naar de provincies Brabant en Utrecht.</td>
+      <td>https://www.brabant.nl/actueel/nieuws/bestuur/2020/activatieprogramma-la-vuelta-holanda-aangepast</td>
+    </tr>
+  </tbody>
+</table>

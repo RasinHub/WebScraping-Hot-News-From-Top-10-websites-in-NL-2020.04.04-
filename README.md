@@ -1,4 +1,4 @@
-# WebScraping-Hot-News-From-Top-10-websites-in-NL-2020.04.04-
+# WebScraping-Hot-News-From-Top-10-News-sites-in-NL-2020.04.04-
 WebScraping: the most up-to-date inland news of the most followed 10 news websites  in the Netherlands. The web sites are
   www.nu.nl/net-binnen, 
   www.nos.nl/nieuws/binnenland, 
